@@ -1,1 +1,1 @@
-Yelmox
+Couple Ice and SMB model utilizing BESSI and YELMO
